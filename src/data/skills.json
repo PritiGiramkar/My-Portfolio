@@ -1,0 +1,43 @@
+[
+    {
+        "title": "JAVA",
+        "imagesrc": "skills/java.png"
+    },
+    {
+        "title": "CAP",
+        "imagesrc": "skills/cap-logo.png"
+    },
+    {
+        "title": "SPRINGBOOT",
+        "imagesrc": "skills/springboot.png"
+    },
+    {
+        "title": "SPRING",
+        "imagesrc": "skills/spring.png"
+    },
+    {
+        "title": "HTML",
+        "imagesrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imagesrc": "skills/css.png"
+    },
+    {
+        "title": "NODE",
+        "imagesrc": "skills/node.png"
+    },
+    {
+        "title": "FIGMA",
+        "imagesrc": "skills/figma.png"
+    },
+    {
+        "title": "React",
+        "imagesrc": "skills/react.png"
+    },
+    {
+        "title": "JIRA",
+        "imagesrc": "skills/jira.png"
+    }
+    
+]

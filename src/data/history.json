@@ -1,0 +1,18 @@
+[
+    {
+        "role": "Software Developer",
+        "organisation": "SAP",
+        "startDate": "Auguest, 2022",
+        "endDate": "July, 2024",
+        "experiences": ["Developed and maintained Spring Boot Java and CAP services.",
+        "Managed incoming issues.",
+        "Created Swagger Documents for API usage",
+        "Worked on Java Fiori Annotations.",
+        "Conducted a POC on extensibility using the CAP framework.",
+        "Created Handlers in the Spring boot application",
+        "Creation of API's.",
+        "Technical Document creation of POCs and Backlogs."
+    ],
+    "imageSrc": "history/SAP.png"
+    }
+]

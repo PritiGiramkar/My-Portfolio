@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Extensibility in CPR",
+        "imageSrc": "projects/project.png",
+        "description": "Developed an application to renegotiate pre-generated contracts and implement business requirements for creating custom applications. Add Extensibility to build customized applications of CPR.",
+        "skills": ["CAP","Fiori","Java","Spring Boot","BTP"],
+        "source":"https://github.com/PritiGiramkar/ExtensibilityInCPR"
+    },
+    {
+        "title": "My Portfolio",
+        "imageSrc": "projects/project.png",
+        "description": "I've developed a dynamic portfolio using React.js, showcasing my experience and skills through interactive components and structured JSON data. This approach ensures a modern, responsive design with easily updatable content.",
+        "skills": ["Reactjs","Vite","HTML","CSS","JSON"],
+        "source":"https://www.github.com"
+    }
+]
