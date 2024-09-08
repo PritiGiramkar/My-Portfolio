@@ -15,6 +15,16 @@
     text-transform: uppercase;
 }
 
+.subtitle {
+    color: var(--color-text);
+    font-size: 20px;
+    font-weight: 550;
+    letter-spacing: 1.50px;
+    text-transform: uppercase;
+    text-align: left;
+    margin: 0;
+}
+
 .content {
     display: flex;
     flex-direction: column;
@@ -64,6 +74,7 @@
     display: flex;
     flex-direction: column;
     gap: 40px;
+    margin-top: 14px;
 }
 
 .historyitem {
@@ -109,14 +120,19 @@
     }
     .content {
         flex-direction: column;
-        align-items: center;
         gap: 34px;
     }
 
     .skills {
         width: 100%;
+        margin-top: 0px;
         flex-direction: row;
-        justify-content: center;
+        flex-wrap: nowrap;
+        gap: 10px;
+        list-style: none;
+        overflow-x: auto;
+        scrollbar-width: none; /* For Firefox */
+        scrollbar-color: #888 #333;
     }
 
     .skill p {

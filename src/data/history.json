@@ -6,12 +6,17 @@
         "endDate": "July, 2024",
         "experiences": ["Developed and maintained Spring Boot Java and CAP services.",
         "Managed incoming issues.",
-        "Created Swagger Documents for API usage",
+        " Performed backend debugging.",
+        "Created Swagger Documents for API usage.",
+        "Worked on front-end debugging with JavaScript and Fiori.",
         "Worked on Java Fiori Annotations.",
         "Conducted a POC on extensibility using the CAP framework.",
-        "Created Handlers in the Spring boot application",
+        "Utilized JUnit for code coverage.",
+        "Clean Desk for code quality.",
+        "Created Handlers in the Spring boot application.",
         "Creation of API's.",
-        "Technical Document creation of POCs and Backlogs."
+        "Integration testing to ensure software functionality and readability.",
+        "Technical Document creation of POCs and Backlog."
     ],
     "imageSrc": "history/SAP.png"
     }

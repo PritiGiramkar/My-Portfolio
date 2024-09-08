@@ -1,19 +1,32 @@
 [
     {
+    "programminglanguages":[{
         "title": "JAVA",
         "imagesrc": "skills/java.png"
     },
     {
-        "title": "CAP",
-        "imagesrc": "skills/cap-logo.png"
+        "title": "C",
+        "imagesrc": "skills/c.png"
     },
     {
-        "title": "SPRINGBOOT",
-        "imagesrc": "skills/springboot.png"
+        "title": "C++",
+        "imagesrc": "skills/c++.png"
     },
     {
-        "title": "SPRING",
-        "imagesrc": "skills/spring.png"
+        "title": "Python",
+        "imagesrc": "skills/python.png"
+    },
+    {
+        "title": "Javascript",
+        "imagesrc": "skills/javascript.png"
+    },
+    {
+        "title": "SQL",
+        "imagesrc": "skills/sql.png"
+    },
+    {
+        "title": "PHP",
+        "imagesrc": "skills/php.png"
     },
     {
         "title": "HTML",
@@ -22,22 +35,115 @@
     {
         "title": "CSS",
         "imagesrc": "skills/css.png"
-    },
-    {
-        "title": "NODE",
-        "imagesrc": "skills/node.png"
-    },
-    {
-        "title": "FIGMA",
-        "imagesrc": "skills/figma.png"
-    },
-    {
-        "title": "React",
-        "imagesrc": "skills/react.png"
-    },
-    {
-        "title": "JIRA",
-        "imagesrc": "skills/jira.png"
     }
-    
+]
+    },
+    {
+        "FrameworksAndTools": [
+            {
+                "title": "Spring Boot",
+                "imagesrc": "skills/springboot.png"
+            },
+            {
+                "title": "CAP",
+                "imagesrc": "skills/cap-logo.png"
+            },
+            {
+                "title": "Fiori",
+                "imagesrc": "skills/node.png"
+            },
+            {
+                "title": "UI5",
+                "imagesrc": "skills/node.png"
+            },
+            {
+                "title": "XML",
+                "imagesrc": "skills/xml.png"
+            },
+            {
+                "title": "REST",
+                "imagesrc": "skills/rest.png"
+            },
+            {
+                "title": "JSON",
+                "imagesrc": "skills/json.png"
+            },
+            {
+                "title": "React js",
+                "imagesrc": "skills/react.png"
+            },
+            {
+                "title": "Hibernate",
+                "imagesrc": "skills/hibernate.png"
+            },
+            {
+                "title": "JPA",
+                "imagesrc": "skills/node.png"
+            },
+            {
+                "title": "Spring JDBC",
+                "imagesrc": "skills/jdbc.png"
+            },
+            {
+                "title": "Spring Security",
+                "imagesrc": "skills/spring.png"
+            }
+        ]
+    },
+    {
+        "DevelopmentTools":[
+                {
+                    "title": "GitHub",
+                    "imagesrc": "skills/github.png"
+                },
+                {
+                    "title": "Gerrit",
+                    "imagesrc": "skills/gerrit.png"
+                },
+                {
+                    "title": "Jenkins",
+                    "imagesrc": "skills/jenkins.png"
+                },
+                {
+                    "title": "Postman",
+                    "imagesrc": "skills/postman.png"
+                },
+                {
+                    "title": "Swagger",
+                    "imagesrc": "skills/swagger.png"
+                },
+                {
+                    "title": "VSCode",
+                    "imagesrc": "skills/vscode.png"
+                },
+                {
+                    "title": "Thunder Client",
+                    "imagesrc": "skills/node.png"
+                },
+                {
+                    "title": "JIRA",
+                    "imagesrc": "skills/jira.png"
+                },
+                {
+                    "title": "Docker",
+                    "imagesrc": "skills/docker.png"
+                },
+                {
+                    "title": "Kubernetes",
+                    "imagesrc": "skills/kubernetes.png"
+                }
+        ]
+    },
+    {
+        "CloudPlatforms":[
+            {
+                "title": "AWS",
+                "imagesrc": "skills/aws.png"
+            },
+            {
+                "title": "GCP",
+                "imagesrc": "skills/gcp.png"
+            }
+        ]
+    }      
 ]

@@ -11,6 +11,13 @@
         "imageSrc": "projects/project.png",
         "description": "I've developed a dynamic portfolio using React.js, showcasing my experience and skills through interactive components and structured JSON data. This approach ensures a modern, responsive design with easily updatable content.",
         "skills": ["Reactjs","Vite","HTML","CSS","JSON"],
-        "source":"https://www.github.com"
+        "source":"https://github.com/PritiGiramkar/My-Portfolio"
+    },
+    {
+        "title": "Anamoly Detection",
+        "imageSrc": "projects/project.png",
+        "description": "Developed a security-based application to detect unusual activities in surveillance footage.",
+        "skills": ["Python","Anaconda","Spider","Machine Learning","CNN"],
+        "source":"https://github.com/PritiGiramkar"
     }
 ]
